@@ -36,7 +36,7 @@ first_line = random.choice(poem_array)
 print first_line
 a = TextBlob(first_line)
 rhyming_word = a.words[-1]
-while count < len(poem_array)-30:
+while count < len(poem_array):
 	sentence = TextBlob(poem_array[count])
 	comparing_word = sentence.words[-1]
 	if(rhyming_word in pronouncing.rhymes(comparing_word)):
