@@ -1,1 +1,1 @@
-
+This is the gallery for my final project for creative coding. We were tasked to look back at 4 of our projects and revise or improve them in some way. each folder in this gallery is one of the projects.
